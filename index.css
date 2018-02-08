@@ -1,3 +1,41 @@
-#nav{
-	background-color: yellow;
+body{
+	background-color: pink;
+}
+#header{
+	background-color: white;
+	border-width: ;
+	border: thin solid black;
+	padding: 10px;
+	margin: 10px;
+}
+#logo{
+	text-decoration: none;
+	color: black;
+}
+#logo:hover{
+	color: pink;
+}
+li{
+	display:inline;
+}
+.buttons{
+	color: pink;
+	background-color: blue;
+	text-decoration: none;
+	display: inline;
+	margin-right: 10px;
+}
+.buttons:hover{
+	color: white;
+	background-color: orange;
+	text-decoration: none;
+}
+#logo{
+	background-color: red;
+}
+#image{
+	background-color: white;
+	border: thin solid black;
+	width: 200px;
+	margin: auto auto auto auto;
 }
